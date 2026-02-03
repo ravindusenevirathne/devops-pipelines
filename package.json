@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000e\u0000v\u0000o\u0000p\u0000s\u0000-\u0000p\u0000i\u0000p\u0000e\u0000l\u0000i\u0000n\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindusenevirathne/devops-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ravindusenevirathne/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/ravindusenevirathne/devops-pipelines#readme"
+}
